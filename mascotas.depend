@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1602915793 source:c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPet.h"
+	"sRace.h"
+	"Utn.h"
+
+1602914566 source:c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\srace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sRace.h"
+
+1602914209 c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\spet.h
+
+1602914219 c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\srace.h
+
+1602913670 source:c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\spet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPet.h"
+
+1602915507 source:c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Utn.h"
+
+1602915507 c:\users\elfer\desktop\proyectos\appveterinaria\mascotas\utn.h
+
+1605483931 source:c:\users\elfer\desktop\proyectos\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1605477787 c:\users\elfer\desktop\proyectos\mascotas\spet.h
+
+1603483587 c:\users\elfer\desktop\proyectos\mascotas\srace.h
+
+1603481852 c:\users\elfer\desktop\proyectos\mascotas\utn.h
+
+1605489012 source:c:\users\elfer\desktop\proyectos\mascotas\spet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_funciones.h"
+	"sPetWithBreed.h"
+
+1603482339 source:c:\users\elfer\desktop\proyectos\mascotas\srace.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sRace.h"
+
+1602915899 source:c:\users\elfer\desktop\proyectos\mascotas\utn.c
+
+1604640298 c:\users\elfer\desktop\proyectos\mascotas\utn_funciones.h
+
+1604640298 source:c:\users\elfer\desktop\proyectos\mascotas\utn_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_funciones.h"
+
+1605477787 c:\users\elfer\desktop\proyectos\mascotas\sbreed.h
+
+1605481694 source:c:\users\elfer\desktop\proyectos\mascotas\sbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+
+1605483917 c:\users\elfer\desktop\proyectos\mascotas\spetwithbreed.h
+	"sPet.h"
+	"sBreed.h"
+	"sCountry.h"
+	"toShowMenu.h"
+	"utn_funciones.h"
+
+1605565022 source:c:\users\elfer\desktop\proyectos\mascotas\spetwithbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1605486593 c:\users\elfer\desktop\proyectos\mascotas\toshowmenu.h
+
+1605486593 source:c:\users\elfer\desktop\proyectos\mascotas\toshowmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"sPetWithBreed.h"
+
+1604774560 c:\users\elfer\desktop\proyectos\mascotas\scountry.h
+
+1605047717 source:c:\users\elfer\desktop\proyectos\mascotas\scountry.c
+	"sCountry.h"
+	<stdio.h>
+	<stdlib.h>
+
+1605483931 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1605483917 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\spetwithbreed.h
+	"sPet.h"
+	"sBreed.h"
+	"sCountry.h"
+	"toShowMenu.h"
+	"utn_funciones.h"
+
+1605477787 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\spet.h
+
+1605477787 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\sbreed.h
+
+1604774560 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\scountry.h
+
+1605486593 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\toshowmenu.h
+
+1604640298 c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\utn_funciones.h
+
+1605481694 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\sbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+
+1605047717 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\scountry.c
+	"sCountry.h"
+	<stdio.h>
+	<stdlib.h>
+
+1605489012 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\spet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_funciones.h"
+	"sPetWithBreed.h"
+
+1605565022 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\spetwithbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1605486593 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\toshowmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"sPetWithBreed.h"
+
+1604640298 source:c:\users\elfer\onedrive\documents\2-mio\utn\laboratorio y programacion\programas\mascotas\utn_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_funciones.h"
+
+1605483931 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1649642676 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\spetwithbreed.h
+	"sPet.h"
+	"sBreed.h"
+	"sCountry.h"
+	"toShowMenu.h"
+	"funciones.h"
+
+1605477787 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\spet.h
+
+1605477787 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\sbreed.h
+
+1604774560 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\scountry.h
+
+1605486593 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\toshowmenu.h
+
+1604640298 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\utn_funciones.h
+
+1605481694 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\sbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+
+1605047717 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\scountry.c
+	"sCountry.h"
+	<stdio.h>
+	<stdlib.h>
+
+1605489012 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\spet.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_funciones.h"
+	"sPetWithBreed.h"
+
+1605565022 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\spetwithbreed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sPetWithBreed.h"
+	"utn_funciones.h"
+
+1605486593 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\toshowmenu.c
+	<stdio.h>
+	<stdlib.h>
+	"sPetWithBreed.h"
+
+1633737437 source:c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\utn_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_funciones.h"
+
+1604640298 c:\users\elfer\onedrive\documents\-\utn\laboratorio y programacion\programas\mascotas\funciones.h
+
